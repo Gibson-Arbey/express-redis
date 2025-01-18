@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank">
+  <a target="blank">
     <img src="https://expressjs.com/images/brand/logo-dark.svg" width="120" alt="Nest Logo" />
   </a>
-  <a href="https://graphql.org/" target="blank" style="margin-left: 20px;">
+  <a target="blank" style="margin-left: 20px;">
     <img src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png" width="120" alt="GraphQL Logo" />
   </a>
 </p>
